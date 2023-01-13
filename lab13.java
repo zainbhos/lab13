@@ -1,4 +1,4 @@
-module lab13 {
+class lab13 {
   
   System.out.println("Lab 13");
 }
